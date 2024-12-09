@@ -1,2 +1,2 @@
-print("We are learing Git!")
+print("We are learning Git!")
 print("Another line!")
